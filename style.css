@@ -1,0 +1,26 @@
+body {
+    background: yellow;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: white;
+    padding: 50px;
+    margin-bottom: 50px;
+}
+
+#column {
+    margin: 0 auto;
+    width: 500px; 
+}
+
+.post {
+    background: white; 
+    margin-bottom: 25px; 
+}
+
+img {
+    display: 
+}
+
